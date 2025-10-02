@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "app.netlify.pwa_tester.twa",
       "sha256_cert_fingerprints": [
-        "14:0B:46:9A:4B:8D:B5:F2:54:55:D2:51:70:23:B8:6A:6C:B7:7B:0F:A0:BC:38:DA:D8:46:0C:F1:BD:2E:37:E9"
+        "14:0B:46:9A:4B:8D:B5:F2:54:55:D2:51:70:23:B8:6A:6C:B7:7B:0F:A0:BC:38:DA:D8:46:0C:F1:BD:2E:37:E9",
+        "D8:1F:E8:FB:AD:BE:C8:8A:F2:C0:2E:4D:05:A1:E5:D3:B1:24:B8:A9:19:8C:EA:57:D6:7A:A0:B8:10:4D:C2:35"
       ]
     }
   }
